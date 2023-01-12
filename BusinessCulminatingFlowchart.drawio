@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T23:38:13.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="cCQ1QrH9wB84PqHooPnv" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T23:40:55.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="o3XDYzB56ajoWMIUdM46" version="20.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1509" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1896" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -27,14 +27,14 @@
             <mxPoint y="38" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IDLOLrMMdAUWFybHLYys-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IDLOLrMMdAUWFybHLYys-1" target="IDLOLrMMdAUWFybHLYys-5" edge="1">
+        <mxCell id="IDLOLrMMdAUWFybHLYys-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IDLOLrMMdAUWFybHLYys-1" target="IDLOLrMMdAUWFybHLYys-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="279" y="235.1428571428571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IDLOLrMMdAUWFybHLYys-6" value="Join the battle" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IDLOLrMMdAUWFybHLYys-3" vertex="1" connectable="0">
           <mxGeometry x="-0.1987" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-6" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IDLOLrMMdAUWFybHLYys-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IDLOLrMMdAUWFybHLYys-1" target="IDLOLrMMdAUWFybHLYys-12" edge="1">
@@ -51,7 +51,7 @@
           <mxGeometry x="324" y="200" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IDLOLrMMdAUWFybHLYys-5" value="Your unit joins the battle at the gate.&lt;br&gt;Everybody in your unit gets killed in the gunfire. You are the only one left and start running&lt;br&gt;GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="50" y="138.75" width="110" height="192.5" as="geometry" />
+          <mxGeometry x="10" y="179.38" width="220" height="111.25" as="geometry" />
         </mxCell>
         <mxCell id="IDLOLrMMdAUWFybHLYys-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IDLOLrMMdAUWFybHLYys-7" target="IDLOLrMMdAUWFybHLYys-14" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -477,9 +477,6 @@
         </mxCell>
         <mxCell id="HjOibPXFbDp2mijpg2Rm-143" value="Marielle runs towards the Galra" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="270" y="1592" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eiZaSnuDPBHjxI1b5mLH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="40" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
