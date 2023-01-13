@@ -1,522 +1,558 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T22:22:32.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="17xUmR8XxWxFoxSpT4S2" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-13T22:39:58.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="ALxCxFvBphVwyFenIc57" version="20.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3187" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3585" dy="2015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="IDLOLrMMdAUWFybHLYys-1" edge="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="IDLOLrMMdAUWFybHLYys-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="319" y="200" as="targetPoint" />
+            <mxPoint x="529" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Your special forces unit, Valkyrie-01 and other Altean soldiers launch an assault on Galra City&lt;br&gt;Your squad consists of Ayna, your pilot. Saevi, your tech specialist. And Colrin, your squad leader.&lt;br&gt;Your mission is to assassinate the Galran King" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="210" y="50" width="240" height="120" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Your special forces unit, Valkyrie-01 and other Altean soldiers launch an assault on Galra City&lt;br&gt;Your squad consists of Ayna, your pilot. Saevi, your tech specialist. And Colrin, your squad leader.&lt;br&gt;Your mission is to assassinate the Galran King" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="420" y="190" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="IDLOLrMMdAUWFybHLYys-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IDLOLrMMdAUWFybHLYys-1" target="IDLOLrMMdAUWFybHLYys-7" edge="1">
+        <mxCell id="IDLOLrMMdAUWFybHLYys-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IDLOLrMMdAUWFybHLYys-1" target="IDLOLrMMdAUWFybHLYys-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="449" y="235.1428571428571" as="targetPoint" />
+            <mxPoint x="659" y="375.1428571428571" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="235" />
-              <mxPoint x="520" y="104" />
+              <mxPoint x="730" y="375" />
+              <mxPoint x="730" y="244" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IDLOLrMMdAUWFybHLYys-10" value="Go towards a local bar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IDLOLrMMdAUWFybHLYys-2" vertex="1" connectable="0">
+        <mxCell id="IDLOLrMMdAUWFybHLYys-10" value="Go towards a local bar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="IDLOLrMMdAUWFybHLYys-2" vertex="1" connectable="0">
           <mxGeometry x="0.1496" relative="1" as="geometry">
             <mxPoint y="38" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IDLOLrMMdAUWFybHLYys-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IDLOLrMMdAUWFybHLYys-1" target="IDLOLrMMdAUWFybHLYys-5" edge="1">
+        <mxCell id="IDLOLrMMdAUWFybHLYys-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IDLOLrMMdAUWFybHLYys-1" target="IDLOLrMMdAUWFybHLYys-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="279" y="235.1428571428571" as="targetPoint" />
+            <mxPoint x="489" y="375.1428571428571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IDLOLrMMdAUWFybHLYys-6" value="Join the battle" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IDLOLrMMdAUWFybHLYys-3" vertex="1" connectable="0">
+        <mxCell id="IDLOLrMMdAUWFybHLYys-6" value="Join the battle" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="IDLOLrMMdAUWFybHLYys-3" vertex="1" connectable="0">
           <mxGeometry x="-0.1987" y="-1" relative="1" as="geometry">
             <mxPoint x="-6" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IDLOLrMMdAUWFybHLYys-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IDLOLrMMdAUWFybHLYys-1" target="IDLOLrMMdAUWFybHLYys-12" edge="1">
+        <mxCell id="IDLOLrMMdAUWFybHLYys-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IDLOLrMMdAUWFybHLYys-1" target="IDLOLrMMdAUWFybHLYys-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="359" y="390" as="targetPoint" />
+            <mxPoint x="569" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IDLOLrMMdAUWFybHLYys-11" value="Go towards city hall&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IDLOLrMMdAUWFybHLYys-4" vertex="1" connectable="0">
+        <mxCell id="IDLOLrMMdAUWFybHLYys-11" value="Go towards city hall&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="IDLOLrMMdAUWFybHLYys-4" vertex="1" connectable="0">
           <mxGeometry x="-0.3103" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IDLOLrMMdAUWFybHLYys-1" value="What will your unit do" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="324" y="200" width="70" height="70" as="geometry" />
+        <mxCell id="IDLOLrMMdAUWFybHLYys-1" value="What will your unit do" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="534" y="340" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IDLOLrMMdAUWFybHLYys-5" value="Your unit joins the battle at the gate.&lt;br&gt;Everybody in your unit gets killed in the gunfire. You are the only one left and start running&lt;br&gt;GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="10" y="179.38" width="220" height="111.25" as="geometry" />
+        <mxCell id="IDLOLrMMdAUWFybHLYys-5" value="Your unit joins the battle at the gate.&lt;br&gt;Everybody in your unit gets killed in the gunfire. You are the only one left and start running&lt;br&gt;GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="220" y="319.38" width="220" height="111.25" as="geometry" />
         </mxCell>
-        <mxCell id="IDLOLrMMdAUWFybHLYys-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IDLOLrMMdAUWFybHLYys-7" target="IDLOLrMMdAUWFybHLYys-14" edge="1">
+        <mxCell id="IDLOLrMMdAUWFybHLYys-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IDLOLrMMdAUWFybHLYys-7" target="IDLOLrMMdAUWFybHLYys-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="759" y="370" as="targetPoint" />
+            <mxPoint x="969" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IDLOLrMMdAUWFybHLYys-7" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Your unit leaves the other soldiers and walk a few hundred meters towards a local bar. You notice nobody along the way. The door is barricaded up with metal. Ayna suggests that it is not worth your time. Colrin wants to burst it down&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="595" y="60" width="280" height="87.5" as="geometry" />
+        <mxCell id="IDLOLrMMdAUWFybHLYys-7" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Your unit leaves the other soldiers and walk a few hundred meters towards a local bar. You notice nobody along the way. The door is barricaded up with metal. Ayna suggests that it is not worth your time. Colrin wants to burst it down&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="805" y="200" width="280" height="87.5" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IDLOLrMMdAUWFybHLYys-12" target="HjOibPXFbDp2mijpg2Rm-14" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IDLOLrMMdAUWFybHLYys-12" target="HjOibPXFbDp2mijpg2Rm-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="299" y="440" as="targetPoint" />
+            <mxPoint x="509" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IDLOLrMMdAUWFybHLYys-12" value="Your unit leaves the other soldiers and go towards the city hall" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="259" y="310" width="200" height="70" as="geometry" />
+        <mxCell id="IDLOLrMMdAUWFybHLYys-12" value="Your unit leaves the other soldiers and go towards the city hall" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="469" y="450" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IDLOLrMMdAUWFybHLYys-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IDLOLrMMdAUWFybHLYys-14" target="IDLOLrMMdAUWFybHLYys-12" edge="1">
+        <mxCell id="IDLOLrMMdAUWFybHLYys-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IDLOLrMMdAUWFybHLYys-14" target="IDLOLrMMdAUWFybHLYys-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="509" y="260" />
-              <mxPoint x="509" y="345" />
+              <mxPoint x="719" y="400" />
+              <mxPoint x="719" y="485" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IDLOLrMMdAUWFybHLYys-17" value="Listen to Ayna" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IDLOLrMMdAUWFybHLYys-16" vertex="1" connectable="0">
+        <mxCell id="IDLOLrMMdAUWFybHLYys-17" value="Listen to Ayna" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="IDLOLrMMdAUWFybHLYys-16" vertex="1" connectable="0">
           <mxGeometry x="-0.2198" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IDLOLrMMdAUWFybHLYys-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IDLOLrMMdAUWFybHLYys-14" target="IDLOLrMMdAUWFybHLYys-18" edge="1">
+        <mxCell id="IDLOLrMMdAUWFybHLYys-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IDLOLrMMdAUWFybHLYys-14" target="IDLOLrMMdAUWFybHLYys-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IDLOLrMMdAUWFybHLYys-20" value="Listen to Colrin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IDLOLrMMdAUWFybHLYys-19" vertex="1" connectable="0">
+        <mxCell id="IDLOLrMMdAUWFybHLYys-20" value="Listen to Colrin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="IDLOLrMMdAUWFybHLYys-19" vertex="1" connectable="0">
           <mxGeometry x="-0.1778" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IDLOLrMMdAUWFybHLYys-14" value="What will you choose to do?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="613" y="220" width="80" height="80" as="geometry" />
+        <mxCell id="IDLOLrMMdAUWFybHLYys-14" value="What will you choose to do?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="823" y="360" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IDLOLrMMdAUWFybHLYys-18" target="HjOibPXFbDp2mijpg2Rm-1" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IDLOLrMMdAUWFybHLYys-18" target="HjOibPXFbDp2mijpg2Rm-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="653" y="540" as="targetPoint" />
+            <mxPoint x="863" y="680" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IDLOLrMMdAUWFybHLYys-18" value="Colrin bursts down the door and finds a bunch of civilians inside. One of them is hold a knife. Saevi uses her gravity launcher to neutralize the civilian. Every civilian is asking to surrender" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="533" y="360" width="240" height="115" as="geometry" />
+        <mxCell id="IDLOLrMMdAUWFybHLYys-18" value="Colrin bursts down the door and finds a bunch of civilians inside. One of them is hold a knife. Saevi uses her gravity launcher to neutralize the civilian. Every civilian is asking to surrender" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="743" y="500" width="240" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-1" target="HjOibPXFbDp2mijpg2Rm-4" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-1" target="HjOibPXFbDp2mijpg2Rm-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-6" value="Kill them" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HjOibPXFbDp2mijpg2Rm-5" vertex="1" connectable="0">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-6" value="Kill them" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="HjOibPXFbDp2mijpg2Rm-5" vertex="1" connectable="0">
           <mxGeometry x="-0.325" y="-2" relative="1" as="geometry">
-            <mxPoint x="12" y="-2" as="offset" />
+            <mxPoint x="-19" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-1" target="HjOibPXFbDp2mijpg2Rm-7" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-1" target="HjOibPXFbDp2mijpg2Rm-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-9" value="Spare them" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HjOibPXFbDp2mijpg2Rm-8" vertex="1" connectable="0">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-9" value="Spare them" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="HjOibPXFbDp2mijpg2Rm-8" vertex="1" connectable="0">
           <mxGeometry x="0.3552" y="1" relative="1" as="geometry">
             <mxPoint x="19" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-1" value="Do You" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="669" y="510" width="80" height="80" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-1" value="Do You" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="899" y="650" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-4" value="GAME OVER&lt;br&gt;That was not apart of the mission!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="793" y="387.5" width="120" height="60" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-4" value="GAME OVER&lt;br&gt;That was not apart of the mission!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1003" y="527.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-7" target="IDLOLrMMdAUWFybHLYys-12" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-7" target="IDLOLrMMdAUWFybHLYys-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="479" y="420" as="targetPoint" />
+            <mxPoint x="689" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-7" value="You take the car keys from one of the civilians and you and your squad leave the bar&lt;br&gt;&lt;br&gt;+1 Keys" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="419" y="510" width="180" height="80" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-7" value="You take the car keys from one of the civilians and you and your squad leave the bar&lt;br&gt;&lt;br&gt;+1 Keys" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="629" y="650" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-14" target="HjOibPXFbDp2mijpg2Rm-20" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-14" target="HjOibPXFbDp2mijpg2Rm-20" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="470" as="targetPoint" />
+            <mxPoint x="600" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-14" target="HjOibPXFbDp2mijpg2Rm-19" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-14" target="HjOibPXFbDp2mijpg2Rm-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-14" value="Check if player has car&amp;nbsp;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="220" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-14" value="Check if player has car&amp;nbsp;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="430" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-19" target="HjOibPXFbDp2mijpg2Rm-22" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-19" target="HjOibPXFbDp2mijpg2Rm-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-19" value="Your squad walks towards a subway station for 1 hour" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="150" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-19" value="Your squad walks towards a subway station for 1 hour" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="360" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-20" target="HjOibPXFbDp2mijpg2Rm-22" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-20" target="HjOibPXFbDp2mijpg2Rm-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-20" value="Your squad drives towards the subway station in 5 minutes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="292" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-20" value="Your squad drives towards the subway station in 5 minutes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="502" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-22" target="HjOibPXFbDp2mijpg2Rm-29" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-22" target="HjOibPXFbDp2mijpg2Rm-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-22" value="You notice a door glowing inside the station" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="220" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-22" value="You notice a door glowing inside the station" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="430" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-29" target="HjOibPXFbDp2mijpg2Rm-31" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-29" target="HjOibPXFbDp2mijpg2Rm-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-36" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HjOibPXFbDp2mijpg2Rm-32" vertex="1" connectable="0">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-36" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="HjOibPXFbDp2mijpg2Rm-32" vertex="1" connectable="0">
           <mxGeometry x="-0.1823" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-29" target="HjOibPXFbDp2mijpg2Rm-33" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-29" target="HjOibPXFbDp2mijpg2Rm-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-35" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HjOibPXFbDp2mijpg2Rm-34" vertex="1" connectable="0">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-35" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="HjOibPXFbDp2mijpg2Rm-34" vertex="1" connectable="0">
           <mxGeometry x="-0.1714" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-29" value="Do you open it" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="230" y="750" width="100" height="90" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-29" value="Do you open it" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="890" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-31" target="HjOibPXFbDp2mijpg2Rm-33" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-31" target="HjOibPXFbDp2mijpg2Rm-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-31" value="You find a power core for a mech. Saevi says that you could use it later&lt;br&gt;+1 Power Core" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="747.5" width="120" height="95" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-31" value="You find a power core for a mech. Saevi says that you could use it later&lt;br&gt;+1 Power Core" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="250" y="887.5" width="120" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-33" target="HjOibPXFbDp2mijpg2Rm-40" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-33" target="HjOibPXFbDp2mijpg2Rm-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-33" value="You keep walking towards the other side of the subway&lt;br&gt;You see a unit of 20 Galran soldiers.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="200.5" y="890" width="159" height="90" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-33" value="You keep walking towards the other side of the subway&lt;br&gt;You see a unit of 20 Galran soldiers.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="410.5" y="1030" width="159" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-40" target="HjOibPXFbDp2mijpg2Rm-43" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-40" target="HjOibPXFbDp2mijpg2Rm-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-49" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HjOibPXFbDp2mijpg2Rm-44" vertex="1" connectable="0">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-49" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="HjOibPXFbDp2mijpg2Rm-44" vertex="1" connectable="0">
           <mxGeometry x="-0.2502" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-40" target="HjOibPXFbDp2mijpg2Rm-45" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-40" target="HjOibPXFbDp2mijpg2Rm-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-53" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HjOibPXFbDp2mijpg2Rm-52" vertex="1" connectable="0">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-53" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="HjOibPXFbDp2mijpg2Rm-52" vertex="1" connectable="0">
           <mxGeometry x="-0.3384" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-40" value="Do you attack them?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="234.5" y="990" width="91" height="100" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-40" value="Do you attack them?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="444.5" y="1130" width="91" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-43" value="You tried to tackle 20 soldiers with just 4 of you&lt;br&gt;GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="30" y="1010" width="120" height="60" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-43" value="You tried to tackle 20 soldiers with just 4 of you&lt;br&gt;GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-45" target="HjOibPXFbDp2mijpg2Rm-54" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-45" target="HjOibPXFbDp2mijpg2Rm-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-45" value="Your squad hides the from the soldiers. A grenade was thrown at you, Colrin, and Saevi" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="369" y="1000" width="120" height="80" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-45" value="Your squad hides the from the soldiers. A grenade was thrown at you, Colrin, and Saevi" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="579" y="1140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-54" target="HjOibPXFbDp2mijpg2Rm-56" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-54" target="HjOibPXFbDp2mijpg2Rm-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-63" value="Colrin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HjOibPXFbDp2mijpg2Rm-57" vertex="1" connectable="0">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-63" value="Colrin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="HjOibPXFbDp2mijpg2Rm-57" vertex="1" connectable="0">
           <mxGeometry x="-0.1814" relative="1" as="geometry">
             <mxPoint y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-54" target="HjOibPXFbDp2mijpg2Rm-58" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-54" target="HjOibPXFbDp2mijpg2Rm-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-64" value="Saevi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HjOibPXFbDp2mijpg2Rm-59" vertex="1" connectable="0">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-64" value="Saevi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="HjOibPXFbDp2mijpg2Rm-59" vertex="1" connectable="0">
           <mxGeometry x="-0.2071" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-54" target="HjOibPXFbDp2mijpg2Rm-60" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-54" target="HjOibPXFbDp2mijpg2Rm-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-62" value="Yourself" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HjOibPXFbDp2mijpg2Rm-61" vertex="1" connectable="0">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-62" value="Yourself" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="HjOibPXFbDp2mijpg2Rm-61" vertex="1" connectable="0">
           <mxGeometry x="-0.1349" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-54" value="Who do you save?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="509" y="990" width="111" height="100" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-54" value="Who do you save?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="719" y="1130" width="111" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-56" value="Saevi was needed for defeating the Galran King&lt;br&gt;GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="504.5" y="900" width="120" height="60" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-56" value="Saevi was needed for defeating the Galran King&lt;br&gt;GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="714.5" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-58" target="HjOibPXFbDp2mijpg2Rm-66" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-58" target="HjOibPXFbDp2mijpg2Rm-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-58" value="You push Saevi out of the way and you two luckily survive.&lt;br&gt;Colrin gets killed." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="684" y="995" width="119.5" height="90" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-58" value="You push Saevi out of the way and you two luckily survive.&lt;br&gt;Colrin gets killed." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="894" y="1135" width="119.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-60" value="You can&#39;t play the game anymore&lt;br&gt;GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="504.5" y="1120" width="120" height="60" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-60" value="You can&#39;t play the game anymore&lt;br&gt;GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="714.5" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-66" target="HjOibPXFbDp2mijpg2Rm-70" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-66" target="HjOibPXFbDp2mijpg2Rm-70" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="743.5" y="820" as="targetPoint" />
+            <mxPoint x="953.5" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-66" value="You make it out of the Subway Station and arrive at the Main Street. You notice a powerless mech on the road." style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="655.5" y="890" width="176.5" height="70" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-66" value="You make it out of the Subway Station and arrive at the Main Street. You notice a powerless mech on the road." style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="865.5" y="1030" width="176.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-70" target="HjOibPXFbDp2mijpg2Rm-71" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-70" target="HjOibPXFbDp2mijpg2Rm-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-70" target="HjOibPXFbDp2mijpg2Rm-72" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-70" target="HjOibPXFbDp2mijpg2Rm-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-70" value="Check if player has a power core" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="667.25" y="810" width="153" height="50" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-70" value="Check if player has a power core" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="877.25" y="950" width="153" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-71" target="HjOibPXFbDp2mijpg2Rm-75" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-71" target="HjOibPXFbDp2mijpg2Rm-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-71" value="Your squad ignores it" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="613" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-71" value="Your squad ignores it" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="823" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-72" target="HjOibPXFbDp2mijpg2Rm-75" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-72" target="HjOibPXFbDp2mijpg2Rm-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-72" value="Saevi puts the power core inside and it powers up. Ayna starts driving it" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="750" y="720" width="130" height="70" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-72" value="Saevi puts the power core inside and it powers up. Ayna starts driving it" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="960" y="860" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-75" target="HjOibPXFbDp2mijpg2Rm-79" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-75" target="HjOibPXFbDp2mijpg2Rm-79" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="890" y="650" as="targetPoint" />
+            <mxPoint x="1100" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-75" value="A sniper down the street starts shooting you specifically.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="683.5" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-75" value="A sniper down the street starts shooting you specifically.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="893.5" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-79" target="HjOibPXFbDp2mijpg2Rm-86" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-79" target="HjOibPXFbDp2mijpg2Rm-86" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1070.0303030303032" y="730" as="targetPoint" />
+            <mxPoint x="1280.0303030303032" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-85" value="Run towards a building" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HjOibPXFbDp2mijpg2Rm-84" vertex="1" connectable="0">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-85" value="Run towards a building" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="HjOibPXFbDp2mijpg2Rm-84" vertex="1" connectable="0">
           <mxGeometry x="-0.2027" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A1LN6JyQG2l_o0y0gba7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-79" target="HjOibPXFbDp2mijpg2Rm-80" edge="1">
+        <mxCell id="A1LN6JyQG2l_o0y0gba7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-79" target="HjOibPXFbDp2mijpg2Rm-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A1LN6JyQG2l_o0y0gba7-12" value="Shoot back" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="A1LN6JyQG2l_o0y0gba7-11" vertex="1" connectable="0">
+        <mxCell id="A1LN6JyQG2l_o0y0gba7-12" value="Shoot back" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="A1LN6JyQG2l_o0y0gba7-11" vertex="1" connectable="0">
           <mxGeometry x="-0.1531" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-79" value="What do you do?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="900" y="610" width="80" height="80" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-79" value="What do you do?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1110" y="750" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-80" value="GAME OVER&lt;br&gt;Don&#39;t try to contest a sniper with a pistol" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1060" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-80" value="GAME OVER&lt;br&gt;Don&#39;t try to contest a sniper with a pistol" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1270" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-86" target="HjOibPXFbDp2mijpg2Rm-87" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-86" target="HjOibPXFbDp2mijpg2Rm-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-94" value="Yourself" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HjOibPXFbDp2mijpg2Rm-88" vertex="1" connectable="0">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-94" value="Yourself" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="HjOibPXFbDp2mijpg2Rm-88" vertex="1" connectable="0">
           <mxGeometry x="0.2168" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-86" target="HjOibPXFbDp2mijpg2Rm-110" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-86" target="HjOibPXFbDp2mijpg2Rm-110" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-95" value="Ayna" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HjOibPXFbDp2mijpg2Rm-90" vertex="1" connectable="0">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-95" value="Ayna" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="HjOibPXFbDp2mijpg2Rm-90" vertex="1" connectable="0">
           <mxGeometry x="-0.2229" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-86" target="HjOibPXFbDp2mijpg2Rm-92" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-86" target="HjOibPXFbDp2mijpg2Rm-92" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1060" y="930" as="targetPoint" />
+            <mxPoint x="1270" y="1070" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="973" y="890" />
-              <mxPoint x="1110" y="890" />
+              <mxPoint x="1183" y="1030" />
+              <mxPoint x="1320" y="1030" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-93" value="Saevi&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HjOibPXFbDp2mijpg2Rm-91" vertex="1" connectable="0">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-93" value="Saevi&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="HjOibPXFbDp2mijpg2Rm-91" vertex="1" connectable="0">
           <mxGeometry x="0.0262" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-86" value="Who do you send to deal with the sniper?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="875" y="750" width="130" height="130" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-86" value="Who do you send to deal with the sniper?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1085" y="890" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-87" value="You can&#39;t play the game anymore&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1090" y="785" width="120" height="60" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-87" value="You can&#39;t play the game anymore&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1300" y="925" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-89" target="HjOibPXFbDp2mijpg2Rm-99" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-89" target="HjOibPXFbDp2mijpg2Rm-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-89" value="You arrive at Malak Square where the Galra King is. He asks you to surrender&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="855" y="1140" width="170" height="70" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-89" value="You arrive at Malak Square where the Galra King is. He asks you to surrender&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1065" y="1280" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-92" value="Saevi tries to use her gravity launcher but the range is too short. The sniper shoots and kills her.&amp;nbsp;&lt;br&gt;GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1050" y="900" width="120" height="100" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-92" value="Saevi tries to use her gravity launcher but the range is too short. The sniper shoots and kills her.&amp;nbsp;&lt;br&gt;GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1260" y="1040" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-99" target="HjOibPXFbDp2mijpg2Rm-101" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-99" target="HjOibPXFbDp2mijpg2Rm-101" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-107" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HjOibPXFbDp2mijpg2Rm-102" vertex="1" connectable="0">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-107" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="HjOibPXFbDp2mijpg2Rm-102" vertex="1" connectable="0">
           <mxGeometry x="-0.2429" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-99" target="HjOibPXFbDp2mijpg2Rm-103" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-99" target="HjOibPXFbDp2mijpg2Rm-103" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="871" y="1310" />
-              <mxPoint x="871" y="1310" />
+              <mxPoint x="1081" y="1450" />
+              <mxPoint x="1081" y="1450" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-105" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HjOibPXFbDp2mijpg2Rm-104" vertex="1" connectable="0">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-105" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="HjOibPXFbDp2mijpg2Rm-104" vertex="1" connectable="0">
           <mxGeometry x="-0.3089" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-99" value="Will you?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="900" y="1270" width="80" height="80" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-99" value="Will you?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1110" y="1410" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-101" value="What are you doing? GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1041" y="1280" width="120" height="60" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-101" value="What are you doing? GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1251" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-103" target="HjOibPXFbDp2mijpg2Rm-119" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-103" target="HjOibPXFbDp2mijpg2Rm-119" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-103" value="You start shooting at the Galra king. Out of nowhere, a mech comes and protects him." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="651" y="1250" width="190" height="90" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-103" value="You start shooting at the Galra king. Out of nowhere, a mech comes and protects him." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="861" y="1390" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="U01SwzNIkSzo2c7879mg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-110" target="HjOibPXFbDp2mijpg2Rm-111">
+        <mxCell id="U01SwzNIkSzo2c7879mg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-110" target="HjOibPXFbDp2mijpg2Rm-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U01SwzNIkSzo2c7879mg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-110" target="HjOibPXFbDp2mijpg2Rm-112">
+        <mxCell id="U01SwzNIkSzo2c7879mg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-110" target="HjOibPXFbDp2mijpg2Rm-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-110" value="Check if player has a mech" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="863.5" y="920" width="153" height="50" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-110" value="Check if player has a mech" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1073.5" y="1060" width="153" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-111" target="HjOibPXFbDp2mijpg2Rm-89" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-111" target="HjOibPXFbDp2mijpg2Rm-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-111" value="Ayna uses her exo-enhancers to run quickly to the sniper and eliminates him.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="810" y="1040" width="120" height="60" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-111" value="Ayna uses her exo-enhancers to run quickly to the sniper and eliminates him.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1020" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-112" target="HjOibPXFbDp2mijpg2Rm-89" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-112" target="HjOibPXFbDp2mijpg2Rm-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-112" value="Ayna drives the mech and destroys the sniper with its blaster cannons&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="940" y="1030" width="130" height="70" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-112" value="Ayna drives the mech and destroys the sniper with its blaster cannons&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1150" y="1170" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-117" value="&lt;h1&gt;BEGIN HERE&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="250" y="10" width="190" height="40" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-117" value="&lt;h1&gt;BEGIN HERE&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="460" y="150" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U01SwzNIkSzo2c7879mg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-119" target="HjOibPXFbDp2mijpg2Rm-122">
+        <mxCell id="U01SwzNIkSzo2c7879mg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-119" target="HjOibPXFbDp2mijpg2Rm-122">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U01SwzNIkSzo2c7879mg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-119" target="HjOibPXFbDp2mijpg2Rm-125">
+        <mxCell id="U01SwzNIkSzo2c7879mg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-119" target="HjOibPXFbDp2mijpg2Rm-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-119" value="Check if player has a mech" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="670" y="1370.0000000000002" width="153" height="50" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-119" value="Check if player has a mech" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="880" y="1510.0000000000002" width="153" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-122" target="HjOibPXFbDp2mijpg2Rm-129" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-122" target="HjOibPXFbDp2mijpg2Rm-129" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-122" value="You run to cover" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="604.5" y="1464.5700000000002" width="120" height="60" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-122" value="You run to cover" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="814.5" y="1604.5700000000002" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-125" target="HjOibPXFbDp2mijpg2Rm-129" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-125" target="HjOibPXFbDp2mijpg2Rm-129" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="826" y="1560" />
-              <mxPoint x="751" y="1560" />
+              <mxPoint x="1036" y="1700" />
+              <mxPoint x="961" y="1700" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-125" value="Ayna counters with her own blasters and shoots the enemy mech. Ayna defeats the enemy mech" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="761" y="1459.5700000000002" width="130" height="70" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-125" value="Ayna counters with her own blasters and shoots the enemy mech. Ayna defeats the enemy mech" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="971" y="1599.5700000000002" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-129" target="HjOibPXFbDp2mijpg2Rm-135" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-129" target="HjOibPXFbDp2mijpg2Rm-135" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-129" value="The Galra King is in a weakened state but 10 more mechs are running towards you" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="651" y="1584" width="200" height="76" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-129" value="The Galra King is in a weakened state but 10 more mechs are running towards you" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="861" y="1724" width="200" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-135" target="A1LN6JyQG2l_o0y0gba7-14" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-135" target="A1LN6JyQG2l_o0y0gba7-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="559" y="1730" as="targetPoint" />
+            <mxPoint x="769" y="1870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-142" value="Send Ayna to Attack" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HjOibPXFbDp2mijpg2Rm-139" vertex="1" connectable="0">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-142" value="Send Ayna to Attack" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="HjOibPXFbDp2mijpg2Rm-139" vertex="1" connectable="0">
           <mxGeometry x="-0.3039" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-135" target="HjOibPXFbDp2mijpg2Rm-143" edge="1">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-135" target="HjOibPXFbDp2mijpg2Rm-143" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-145" value="Send Saevi to attack" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HjOibPXFbDp2mijpg2Rm-144" vertex="1" connectable="0">
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-145" value="Send Saevi to attack" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" parent="HjOibPXFbDp2mijpg2Rm-144" vertex="1" connectable="0">
           <mxGeometry x="0.2458" y="2" relative="1" as="geometry">
             <mxPoint x="20" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-135" value="Who will you send?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="519" y="1582" width="80" height="80" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-135" value="Who will you send?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="729" y="1722" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="A1LN6JyQG2l_o0y0gba7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-143" target="A1LN6JyQG2l_o0y0gba7-15" edge="1">
+        <mxCell id="A1LN6JyQG2l_o0y0gba7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HjOibPXFbDp2mijpg2Rm-143" target="A1LN6JyQG2l_o0y0gba7-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjOibPXFbDp2mijpg2Rm-143" value="Saevi runs towards the Galra" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="270" y="1596" width="120" height="52" as="geometry" />
+        <mxCell id="HjOibPXFbDp2mijpg2Rm-143" value="Saevi runs towards the Galra" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="1736" width="120" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="A1LN6JyQG2l_o0y0gba7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A1LN6JyQG2l_o0y0gba7-2" target="HjOibPXFbDp2mijpg2Rm-143" edge="1">
+        <mxCell id="A1LN6JyQG2l_o0y0gba7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A1LN6JyQG2l_o0y0gba7-2" target="HjOibPXFbDp2mijpg2Rm-143" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A1LN6JyQG2l_o0y0gba7-2" value="Ayna runs towards the Galra King but she gets blasted but a mech" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="419" y="1820.4700000000003" width="120" height="60" as="geometry" />
+        <mxCell id="A1LN6JyQG2l_o0y0gba7-2" value="Ayna runs towards the Galra King but she gets blasted but a mech" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="629" y="1960.4700000000003" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A1LN6JyQG2l_o0y0gba7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A1LN6JyQG2l_o0y0gba7-5" target="HjOibPXFbDp2mijpg2Rm-143" edge="1">
+        <mxCell id="A1LN6JyQG2l_o0y0gba7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A1LN6JyQG2l_o0y0gba7-5" target="HjOibPXFbDp2mijpg2Rm-143" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A1LN6JyQG2l_o0y0gba7-5" value="Ayna blasts the King right before the other mechs make it to him.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="509" y="1900" width="180" height="40" as="geometry" />
+        <mxCell id="A1LN6JyQG2l_o0y0gba7-5" value="Ayna blasts the King right before the other mechs make it to him.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="719" y="2040" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U01SwzNIkSzo2c7879mg-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A1LN6JyQG2l_o0y0gba7-14" target="A1LN6JyQG2l_o0y0gba7-5">
+        <mxCell id="U01SwzNIkSzo2c7879mg-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A1LN6JyQG2l_o0y0gba7-14" target="A1LN6JyQG2l_o0y0gba7-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U01SwzNIkSzo2c7879mg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A1LN6JyQG2l_o0y0gba7-14" target="A1LN6JyQG2l_o0y0gba7-2">
+        <mxCell id="U01SwzNIkSzo2c7879mg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A1LN6JyQG2l_o0y0gba7-14" target="A1LN6JyQG2l_o0y0gba7-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A1LN6JyQG2l_o0y0gba7-14" value="Check if player has a mech" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="479" y="1710" width="160" height="60" as="geometry" />
+        <mxCell id="A1LN6JyQG2l_o0y0gba7-14" value="Check if player has a mech" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="689" y="1850" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A1LN6JyQG2l_o0y0gba7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A1LN6JyQG2l_o0y0gba7-15" target="A1LN6JyQG2l_o0y0gba7-17" edge="1">
+        <mxCell id="A1LN6JyQG2l_o0y0gba7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A1LN6JyQG2l_o0y0gba7-15" target="A1LN6JyQG2l_o0y0gba7-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A1LN6JyQG2l_o0y0gba7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A1LN6JyQG2l_o0y0gba7-15" target="A1LN6JyQG2l_o0y0gba7-18" edge="1">
+        <mxCell id="A1LN6JyQG2l_o0y0gba7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A1LN6JyQG2l_o0y0gba7-15" target="A1LN6JyQG2l_o0y0gba7-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A1LN6JyQG2l_o0y0gba7-15" value="Check if player has a mech&lt;br&gt;(Is Ayna alive)" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="250" y="1524.57" width="160" height="60" as="geometry" />
+        <mxCell id="A1LN6JyQG2l_o0y0gba7-15" value="Check if player has a mech&lt;br&gt;(Is Ayna alive)" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="460" y="1664.57" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A1LN6JyQG2l_o0y0gba7-17" value="Saevi gets shot in the arm and leg. She uses her particle compactor to compress the Galra king into a runestone. She gets blasted by a mech. Only you survive. Altean forces have arrived at City Hall and sweep out the remaining Galra forces..&lt;br&gt;YOU WIN but you lost your squad.&lt;br&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="98" y="1300" width="202" height="180" as="geometry" />
+        <mxCell id="A1LN6JyQG2l_o0y0gba7-17" value="Saevi gets shot in the arm and leg. She uses her particle compactor to compress the Galra king into a runestone. She gets blasted by a mech. Only you survive. Altean forces have arrived at City Hall and sweep out the remaining Galra forces..&lt;br&gt;YOU WIN but you lost your squad.&lt;br&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="308" y="1440" width="202" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="A1LN6JyQG2l_o0y0gba7-18" value="Ayna uses her mech as a shield for Saevi. She uses her particle compactor to compress the Galra king into a runestone. Altean forces have arrived at City Hall and sweep out the remaining Galra forces.&lt;br&gt;YOU WIN but you mourn the death of Colrin." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="360" y="1300" width="220" height="180" as="geometry" />
+        <mxCell id="A1LN6JyQG2l_o0y0gba7-18" value="Ayna uses her mech as a shield for Saevi. She uses her particle compactor to compress the Galra king into a runestone. Altean forces have arrived at City Hall and sweep out the remaining Galra forces.&lt;br&gt;YOU WIN but you mourn the death of Colrin." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="570" y="1440" width="220" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="U01SwzNIkSzo2c7879mg-6" value="&lt;h1 style=&quot;font-size: 80px;&quot;&gt;Valkyrie Squad&amp;nbsp;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;align=center;verticalAlign=middle;fontStyle=0;fontSize=80;horizontal=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="393.5" y="20" width="857.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="U01SwzNIkSzo2c7879mg-7" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=80;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1190" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U01SwzNIkSzo2c7879mg-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=80;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1170" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U01SwzNIkSzo2c7879mg-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=80;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1170" y="259.38" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U01SwzNIkSzo2c7879mg-10" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=80;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1170" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U01SwzNIkSzo2c7879mg-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=80;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1170" y="345.01" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U01SwzNIkSzo2c7879mg-12" value="Option Prompt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=40;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1300" y="105" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U01SwzNIkSzo2c7879mg-13" value="Preferable Option" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=40;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1300" y="185" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U01SwzNIkSzo2c7879mg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=40;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U01SwzNIkSzo2c7879mg-13" target="U01SwzNIkSzo2c7879mg-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U01SwzNIkSzo2c7879mg-16" value="Not prefered Option" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=37;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1300" y="264.38" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U01SwzNIkSzo2c7879mg-17" value="Game Over" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=37;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1300" y="350" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U01SwzNIkSzo2c7879mg-18" value="Check if player has item" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=31;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1300" y="425" width="350" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
