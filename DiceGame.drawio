@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T13:03:02.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Gq0gh1utQ2Hm0JAOmMM7" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T13:03:42.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="MNz9xCsqTSdDVNcoX-C_" version="24.2.5" type="github">
   <diagram name="Page-1" id="Msz-cd814kh6OnqAU00_">
     <mxGraphModel dx="1320" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,10 +50,19 @@
         <mxCell id="aKXDSLKAKzX5VBDTXgsx-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aKXDSLKAKzX5VBDTXgsx-22" target="aKXDSLKAKzX5VBDTXgsx-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aKXDSLKAKzX5VBDTXgsx-22" value="Update correctValueLabel&lt;div&gt;Update totalGuessesLabel&lt;/div&gt;&lt;div&gt;Update win percent label&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="aKXDSLKAKzX5VBDTXgsx-22" value="Update correctValueLabel&lt;div&gt;Update totalGuessesLabel&lt;/div&gt;&lt;div&gt;Update win percent label&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="490" y="160" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="aKXDSLKAKzX5VBDTXgsx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.44;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aKXDSLKAKzX5VBDTXgsx-16" target="aKXDSLKAKzX5VBDTXgsx-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aKXDSLKAKzX5VBDTXgsx-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aKXDSLKAKzX5VBDTXgsx-26" target="aKXDSLKAKzX5VBDTXgsx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aKXDSLKAKzX5VBDTXgsx-26" value="Update incorrectValueLabel&lt;div&gt;Update totalGuessesLabel&lt;/div&gt;&lt;div&gt;Update win percent label&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="110" y="160" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aKXDSLKAKzX5VBDTXgsx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.447;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aKXDSLKAKzX5VBDTXgsx-7" target="aKXDSLKAKzX5VBDTXgsx-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
