@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T13:38:45.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="0tSJS6n-E7ZuVI6RsN_e" version="24.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-24T14:04:25.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="wXpt_5CgM0ioc8WI7ZCx" version="24.2.9" type="github">
   <diagram name="Page-1" id="pNmtudPLMQkaU-eBatCQ">
-    <mxGraphModel dx="1015" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2403" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,23 +22,78 @@
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWLIcFDUOC9fxLD4wbr2-5" target="VWLIcFDUOC9fxLD4wbr2-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-17" value="Safe/Long" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VWLIcFDUOC9fxLD4wbr2-8">
+          <mxGeometry x="-0.01" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWLIcFDUOC9fxLD4wbr2-5" target="VWLIcFDUOC9fxLD4wbr2-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-16" value="Risky/Short&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VWLIcFDUOC9fxLD4wbr2-10">
+          <mxGeometry x="-0.1982" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWLIcFDUOC9fxLD4wbr2-5" target="VWLIcFDUOC9fxLD4wbr2-11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-18" value="Dangerous/Fast" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VWLIcFDUOC9fxLD4wbr2-12">
+          <mxGeometry x="-0.3026" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-5" value="Which direction&amp;nbsp;&lt;div&gt;are you going in&amp;nbsp;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="390" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-7" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="575" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-9" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VWLIcFDUOC9fxLD4wbr2-11" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWLIcFDUOC9fxLD4wbr2-11" target="VWLIcFDUOC9fxLD4wbr2-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-11" value="The Hacker HQ access point can be accessed directly in front of you,&amp;nbsp;&lt;div&gt;There are cops surrounding the area. You see a drone that could be hacked.&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="510" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWLIcFDUOC9fxLD4wbr2-19" target="VWLIcFDUOC9fxLD4wbr2-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-26" value="Hack the Drone" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VWLIcFDUOC9fxLD4wbr2-22">
+          <mxGeometry x="-0.2294" y="-2" relative="1" as="geometry">
+            <mxPoint x="-12" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWLIcFDUOC9fxLD4wbr2-19" target="VWLIcFDUOC9fxLD4wbr2-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-25" value="Try to walk&amp;nbsp;&lt;div&gt;through them&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VWLIcFDUOC9fxLD4wbr2-24">
+          <mxGeometry x="-0.0694" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-19" value="What do you do?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="373" y="680" width="105" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWLIcFDUOC9fxLD4wbr2-21" target="VWLIcFDUOC9fxLD4wbr2-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-21" value="The drone has a special code that needs to be inputted or else it will alert the surrounding cops." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="670" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-23" value="GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="580" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWLIcFDUOC9fxLD4wbr2-27" target="VWLIcFDUOC9fxLD4wbr2-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-27" value="Which code is it?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="800" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-29" value="GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="825" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
