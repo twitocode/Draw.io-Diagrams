@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T14:04:25.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="wXpt_5CgM0ioc8WI7ZCx" version="24.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-24T14:15:42.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="xOpq6UWBCCgYAn48oUUd" version="24.2.9" type="github">
   <diagram name="Page-1" id="pNmtudPLMQkaU-eBatCQ">
-    <mxGraphModel dx="2403" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1437" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,11 +89,61 @@
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWLIcFDUOC9fxLD4wbr2-27" target="VWLIcFDUOC9fxLD4wbr2-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-32" value="01110100 01101000 01101001 01110011&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VWLIcFDUOC9fxLD4wbr2-30">
+          <mxGeometry x="-0.0177" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWLIcFDUOC9fxLD4wbr2-27" target="VWLIcFDUOC9fxLD4wbr2-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-35" value="0x746869732069732074686520636F6465" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VWLIcFDUOC9fxLD4wbr2-34">
+          <mxGeometry x="-0.1315" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-27" value="Which code is it?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="800" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-29" value="GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="825" width="120" height="60" as="geometry" />
+          <mxGeometry x="-270" y="825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWLIcFDUOC9fxLD4wbr2-33" target="VWLIcFDUOC9fxLD4wbr2-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-33" value="You successfully hacked the drone,&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWLIcFDUOC9fxLD4wbr2-36" target="VWLIcFDUOC9fxLD4wbr2-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-42" value="Use its EMP Charge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VWLIcFDUOC9fxLD4wbr2-39">
+          <mxGeometry x="-0.0198" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWLIcFDUOC9fxLD4wbr2-36" target="VWLIcFDUOC9fxLD4wbr2-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-45" value="Use it to steal the access point" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VWLIcFDUOC9fxLD4wbr2-44">
+          <mxGeometry x="-0.1755" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-36" value="what do you&amp;nbsp;&lt;div&gt;want to do with it?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="925" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWLIcFDUOC9fxLD4wbr2-38" target="VWLIcFDUOC9fxLD4wbr2-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-38" value="You used the EMP charge to blind the cops heads-up-displays. Now they cant see anything in their helmets" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="790" width="300" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-40" value="YOU WIN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="690" y="808" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-43" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
