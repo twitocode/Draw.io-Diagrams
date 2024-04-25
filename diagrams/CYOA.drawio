@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T01:57:57.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="F_ke1o_QEmkrXGILEOZs" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T12:24:01.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="NOj9cTYXQAK_GGCIrISt" version="24.3.0" type="github">
   <diagram name="Page-1" id="pNmtudPLMQkaU-eBatCQ">
-    <mxGraphModel dx="2359" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2881" dy="1388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VWLIcFDUOC9fxLD4wbr2-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VWLIcFDUOC9fxLD4wbr2-1" target="VWLIcFDUOC9fxLD4wbr2-3" edge="1">
+        <mxCell id="GnIt_JvEr8C8AOqXq2Al-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWLIcFDUOC9fxLD4wbr2-1" target="GnIt_JvEr8C8AOqXq2Al-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -13,16 +13,10 @@
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-2" value="Escaping Law Enforcement (Kinda like the matrix)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="20" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VWLIcFDUOC9fxLD4wbr2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VWLIcFDUOC9fxLD4wbr2-3" target="VWLIcFDUOC9fxLD4wbr2-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VWLIcFDUOC9fxLD4wbr2-3" value="&quot;You are a hacker navigating City of Nexilis. The city is under constant surveillance by its brutal law enforcement. Drones scour the skies, heavy vehicle units are everywhere&quot;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;You need to get to the hackers base of operations, Synapse&lt;span style=&quot;background-color: initial;&quot;&gt;. But there are multiple ways to get there.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="325.5" y="160" width="200" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VWLIcFDUOC9fxLD4wbr2-5" target="VWLIcFDUOC9fxLD4wbr2-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-21" value="Safe" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VWLIcFDUOC9fxLD4wbr2-8">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-21" value="Safe" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VWLIcFDUOC9fxLD4wbr2-8" vertex="1" connectable="0">
           <mxGeometry x="-0.048" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -30,7 +24,7 @@
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VWLIcFDUOC9fxLD4wbr2-5" target="VWLIcFDUOC9fxLD4wbr2-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-3" value="Dangerous" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VWLIcFDUOC9fxLD4wbr2-12">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-3" value="Dangerous" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VWLIcFDUOC9fxLD4wbr2-12" vertex="1" connectable="0">
           <mxGeometry x="-0.2221" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -38,7 +32,7 @@
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-5" value="What is your&lt;div&gt;&amp;nbsp;approach?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="360" y="390" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWLIcFDUOC9fxLD4wbr2-7" target="5jEzZzmttTvrSZJdF8YI-4">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VWLIcFDUOC9fxLD4wbr2-7" target="5jEzZzmttTvrSZJdF8YI-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-7" value="&quot;You go to down to the subway station to avoid Nexilis Police. You see a suspicious looking person in the distance. You also know of a Synapse translocator 2km in the Nova District of the city.&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -47,15 +41,15 @@
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VWLIcFDUOC9fxLD4wbr2-11" target="VWLIcFDUOC9fxLD4wbr2-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VWLIcFDUOC9fxLD4wbr2-11" value="The Synpase translocator can be accessed directly in front of you,&amp;nbsp;&lt;div&gt;There are cops surrounding the area. You see a drone that could be hacked.&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="360" width="120" height="130" as="geometry" />
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-11" value="&lt;div&gt;You see a translocator that can be accessed directly in front of you,&amp;nbsp;&lt;div&gt;But there are cops surrounding the area. You see a drone that could be hacked.&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="360" width="230" height="130" as="geometry" />
         </mxCell>
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VWLIcFDUOC9fxLD4wbr2-19" target="VWLIcFDUOC9fxLD4wbr2-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-26" value="Hack the Drone" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VWLIcFDUOC9fxLD4wbr2-22" vertex="1" connectable="0">
           <mxGeometry x="-0.2294" y="-2" relative="1" as="geometry">
-            <mxPoint x="-12" y="2" as="offset" />
+            <mxPoint x="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VWLIcFDUOC9fxLD4wbr2-19" target="5jEzZzmttTvrSZJdF8YI-22" edge="1">
@@ -74,10 +68,10 @@
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VWLIcFDUOC9fxLD4wbr2-21" target="VWLIcFDUOC9fxLD4wbr2-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VWLIcFDUOC9fxLD4wbr2-21" value="The drone has a special code that needs to be inputted or else it will alert the surrounding cops." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="660" width="120" height="100" as="geometry" />
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-21" value="&quot;You see a drone in the distance that could help. The drone has a special code that needs to be inputted or else it will alert the surrounding cops.&quot;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="660" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VWLIcFDUOC9fxLD4wbr2-23" value="GAME OVER&lt;div&gt;The Woman ignores you and lets the rest of Synapse believe you&#39;ve betrayed them.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-23" value="GAME OVER&lt;div&gt;&quot;The Woman ignores you and lets the rest of Synapse believe you&#39;ve betrayed them.&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="380" y="810" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VWLIcFDUOC9fxLD4wbr2-27" target="VWLIcFDUOC9fxLD4wbr2-29" edge="1">
@@ -99,8 +93,8 @@
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-27" value="Which code is it?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="145" y="790" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="VWLIcFDUOC9fxLD4wbr2-29" value="GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="872.5" width="120" height="60" as="geometry" />
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-29" value="&lt;div&gt;&quot;The drone initiates its self destruct protocol and notifies the nearby cops of your hacking attempt&quot;k&lt;/div&gt;GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="875" width="120" height="105" as="geometry" />
         </mxCell>
         <mxCell id="VWLIcFDUOC9fxLD4wbr2-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VWLIcFDUOC9fxLD4wbr2-33" target="VWLIcFDUOC9fxLD4wbr2-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -132,110 +126,116 @@
             <mxPoint x="480" y="1357.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VWLIcFDUOC9fxLD4wbr2-38" value="You used the EMP charge to blind the cops heads-up-displays. Now they cant see anything in their helmets. Before one of the cops can shoot you, you reach the translocator and materialize yourself at Synapse" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-38" value="&quot;You used the EMP charge to blind the cops heads-up-displays. Now they cannot see anything in their helmets. Before one of the cops can shoot you, you reach the translocator and materialize yourself at Synapse" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="1310" width="300" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWLIcFDUOC9fxLD4wbr2-43" target="5jEzZzmttTvrSZJdF8YI-1">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VWLIcFDUOC9fxLD4wbr2-43" target="5jEzZzmttTvrSZJdF8YI-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VWLIcFDUOC9fxLD4wbr2-43" value="&quot;The drone quietly takes the translocator and gives it to you. You then use the translocator to materialize yourself into the HQ" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="VWLIcFDUOC9fxLD4wbr2-43" value="&quot;The drone quietly takes the translocator and gives it to you. You then use the translocator to materialize yourself into Synapse" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="1100" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-1" value="YOU WIN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-1" value="YOU WIN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="460" y="1327.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5jEzZzmttTvrSZJdF8YI-4" target="5jEzZzmttTvrSZJdF8YI-6">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5jEzZzmttTvrSZJdF8YI-4" target="5jEzZzmttTvrSZJdF8YI-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-11" value="Go on the subway train" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5jEzZzmttTvrSZJdF8YI-7">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-11" value="Go on the subway train" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5jEzZzmttTvrSZJdF8YI-7" vertex="1" connectable="0">
           <mxGeometry x="-0.0667" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5jEzZzmttTvrSZJdF8YI-4" target="5jEzZzmttTvrSZJdF8YI-8">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5jEzZzmttTvrSZJdF8YI-4" target="5jEzZzmttTvrSZJdF8YI-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-10" value="Approach the&amp;nbsp;&lt;div&gt;suspicious person&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5jEzZzmttTvrSZJdF8YI-9">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-10" value="Approach the&amp;nbsp;&lt;div&gt;suspicious person&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5jEzZzmttTvrSZJdF8YI-9" vertex="1" connectable="0">
           <mxGeometry x="-0.3704" y="-1" relative="1" as="geometry">
             <mxPoint x="-18" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-4" value="What do you do?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-4" value="What do you do?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="652.5" y="530" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5jEzZzmttTvrSZJdF8YI-6" target="5jEzZzmttTvrSZJdF8YI-25">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5jEzZzmttTvrSZJdF8YI-6" target="5jEzZzmttTvrSZJdF8YI-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-6" value="You go on the subway that is in the Nova District, the city slums. There are not as many Nexilis Police operatives in the area.&amp;nbsp;&lt;div&gt;Right as you&#39;re about to reach the&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Synpase translocator, someone steals it.&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-6" value="&quot;You go on the subway that is in the Nova District, the city slums. There are not as many Nexilis Police operatives in the area.&amp;nbsp;&lt;div&gt;Right as you&#39;re about to reach the&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Synpase translocator, someone steals it.&quot;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="485" width="190" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5jEzZzmttTvrSZJdF8YI-8" target="5jEzZzmttTvrSZJdF8YI-12">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5jEzZzmttTvrSZJdF8YI-8" target="5jEzZzmttTvrSZJdF8YI-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-8" value="&quot;You approach the suspicious person, you notice a tattoo on her wrist that is the Hacker&#39;s Symbol. She then asks you whats the code.&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-8" value="&quot;You approach the suspicious person, you notice a tattoo. It is her hacker call sign, Cipher). She then asks you whats the code.&quot;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="510" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5jEzZzmttTvrSZJdF8YI-12" target="VWLIcFDUOC9fxLD4wbr2-23">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5jEzZzmttTvrSZJdF8YI-12" target="VWLIcFDUOC9fxLD4wbr2-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-15" value="Dexterity in Silence" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5jEzZzmttTvrSZJdF8YI-14">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-15" value="Dexterity in Silence" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5jEzZzmttTvrSZJdF8YI-14" vertex="1" connectable="0">
           <mxGeometry x="-0.1011" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5jEzZzmttTvrSZJdF8YI-12" target="5jEzZzmttTvrSZJdF8YI-16">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5jEzZzmttTvrSZJdF8YI-12" target="5jEzZzmttTvrSZJdF8YI-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-18" value="Silence is Golden" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5jEzZzmttTvrSZJdF8YI-17">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-18" value="Silence is Golden" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5jEzZzmttTvrSZJdF8YI-17" vertex="1" connectable="0">
           <mxGeometry x="-0.1071" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-12" value="What is the&lt;div&gt;Code?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-12" value="What is the&lt;div&gt;Code?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="400" y="680" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5jEzZzmttTvrSZJdF8YI-16" target="5jEzZzmttTvrSZJdF8YI-23">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5jEzZzmttTvrSZJdF8YI-16" target="5jEzZzmttTvrSZJdF8YI-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-16" value="The women hands you an translocator and you materialize inside Synapse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-16" value="&quot;The women hands you an translocator and you materialize inside Synapse&quot;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="605" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-22" value="GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="550" width="120" height="60" as="geometry" />
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-22" value="&lt;div&gt;&quot;You try to walk through the cops, you seem to have forgotten that they do not show mercy and gun you down&quot;&lt;/div&gt;GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="525" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-23" value="YOU WIN" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-23" value="YOU WIN" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="605" y="815" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5jEzZzmttTvrSZJdF8YI-25" target="5jEzZzmttTvrSZJdF8YI-27">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5jEzZzmttTvrSZJdF8YI-25" target="5jEzZzmttTvrSZJdF8YI-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-29" value="Hack their neural implants" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5jEzZzmttTvrSZJdF8YI-28">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-29" value="Hack their neural implants" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5jEzZzmttTvrSZJdF8YI-28" vertex="1" connectable="0">
           <mxGeometry x="-0.178" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5jEzZzmttTvrSZJdF8YI-25" target="5jEzZzmttTvrSZJdF8YI-30">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5jEzZzmttTvrSZJdF8YI-25" target="5jEzZzmttTvrSZJdF8YI-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-32" value="Let them go" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5jEzZzmttTvrSZJdF8YI-31">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-32" value="Let them go" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5jEzZzmttTvrSZJdF8YI-31" vertex="1" connectable="0">
           <mxGeometry x="-0.0589" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-25" value="What do you&lt;div&gt;do?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-25" value="What do you&lt;div&gt;do?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="932.5" y="690" width="105" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5jEzZzmttTvrSZJdF8YI-27" target="5jEzZzmttTvrSZJdF8YI-37">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5jEzZzmttTvrSZJdF8YI-27" target="5jEzZzmttTvrSZJdF8YI-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-27" value="You hack into the person&#39;s neural implant to immoblize them. You then take the translocator and materialize yourself inside Synapse." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-27" value="&quot;You hack into the person&#39;s neural implant to immoblize them. You then take the translocator and materialize yourself inside Synapse.&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="925" y="860" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-30" value="&lt;div&gt;You let the person go, the next translocator is now 20km away in the Triton District of the city.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-30" value="&lt;div&gt;&quot;You let the person go, the next translocator is now 20km away in the Triton District of the city.&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1130" y="700" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5jEzZzmttTvrSZJdF8YI-37" value="YOU WIN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="5jEzZzmttTvrSZJdF8YI-37" value="YOU WIN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1080" y="885" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GnIt_JvEr8C8AOqXq2Al-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GnIt_JvEr8C8AOqXq2Al-1" target="VWLIcFDUOC9fxLD4wbr2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GnIt_JvEr8C8AOqXq2Al-1" value="&quot;You are a hacker navigating the City of Nexilis. The city is under constant surveillance by its brutal law enforcement. Drones scour the skies, and heavy vehicle units are everywhere&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;You need to get to the hackers base of operations, Synapse&lt;span style=&quot;background-color: initial;&quot;&gt;. There are multiple ways to get there.&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&quot;A Synapse Translocator can remove you from the city by replacing your atoms in one location and putting into the base (Materialization). However they are not easily found.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="263" y="180" width="325" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
